@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root [file:/Volumes/Dev/Universidad/Metodologías%20de%20Diseño%20y%20Programación/Auxiliares/2/auxiliar2-2024-2/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="root [file:/C:/Users/benja/Desktop/MEMES/Auxs/auxiliar2-2024-2/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21">
     <output url="file://$MODULE_DIR$/../../target/scala-3.5.0/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/scala-3.5.0/test-classes" />
